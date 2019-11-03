@@ -1,5 +1,9 @@
 class only:
- a = "your code goes here 2 "
-if __name__ == "__main__":
- p1 = only()
- print(p1.a)
+ a = """your code goes here 2 
+import numpy as np
+from sklearn import datasets
+from sklearn.svm import SVR
+from sklearn.metrics import mean_squared_error, explained_variance_score
+from sklearn.utils import shuffle"""
+
+
