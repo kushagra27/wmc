@@ -1,1 +1,1 @@
-from wmc.a import only
+from wmcvit.a import only
