@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
-  name = 'wmcvit',         # How you named your package folder (MyLib)
-  packages = ['wmcvit'],   # Chose the same as "name"
-  version = '0.3',      # Start with a small number and increase it with every change you make
+  name = 'wmcvit0.2',         # How you named your package folder (MyLib)
+  packages = ['wmcvit0.2'],   # Chose the same as "name"
+  version = '0.2',      # Start with a small number and increase it with every change you make
   license='',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'help it is',   # Give a short description about your library
   author = 'qwertybob',                   # Type in your name
